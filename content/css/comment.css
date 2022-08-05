@@ -1,0 +1,97 @@
+.comment-layout {
+  margin-top: 15px;
+}
+.comment-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+.conment-img {
+  width: 5%;
+}
+.conment-txt {
+  width: 85%;
+}
+.comment-user {
+  font-size: 15px;
+  font-weight: 600;
+  color: #385898;
+  margin-bottom: 5px;
+}
+.comment-day {
+  width: 10%;
+  font-style: italic;
+  text-align: right;
+}
+/* .comment-boxed-add {
+} */
+.form-add--comment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.form-add--comment input {
+  width: 100%;
+  border: 1px solid lightgray;
+  padding: 15px 20px;
+  border-radius: 2px;
+}
+.add-comment--img {
+  width: 5%;
+  height: 45px;
+  position: relative;
+}
+.add-comment--img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translateY(-58%);
+}
+.add-comment--submit {
+  width: 95%;
+}
+.boxed-hidden {
+  border: 1px solid lightgray;
+  background-color: #f5f6f7;
+  padding: 10px;
+  border-top: none;
+  /* opacity: 0;
+  visibility: hidden;
+  transition: all 0.2s ease; */
+}
+/* .add-comment--submit input:focus .boxed-hidden {
+  opacity: 1;
+  visibility: visible;
+} */
+.boxed-hidden button {
+  background-color: #385898;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 2px;
+  transition: all 0.25s linear;
+}
+.boxed-hidden button:hover {
+  background-color: #112d6b;
+}
+.login-to--comment {
+  padding: 20px 10px;
+  background-color: #f5f6f7;
+  color: #385898;
+  color: #4c73dd;
+  margin-top: 30px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.login-to--comment a {
+  color: #112d6b;
+  transition: all 0.2s linear;
+}
+.login-to--comment a:hover {
+  color: #fc0137;
+}

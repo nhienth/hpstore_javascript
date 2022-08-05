@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      href="//bizweb.dktcdn.net/100/180/515/themes/683553/assets/favicon.png?1624423469475"
+      type="image/x-icon"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script
+      src="https://kit.fontawesome.com/497e58feb8.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+    <link rel="stylesheet" href="./content/css/reset.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"
+    />
+    <link rel="stylesheet" href="content/css/app.css" />
+    <link rel="stylesheet" href="content/css/header.css" />
+    <link rel="stylesheet" href="content/css/footer.css" />
+    <link rel="stylesheet" href="content/css/main.css" />
+    <link rel="stylesheet" href="content/css/login.css" />
+    <link rel="stylesheet" href="content/css/product.css" />
+    <link rel="stylesheet" href="content/css/details.css" />
+    <link rel="stylesheet" href="content/css/comment.css" />
+    <link rel="stylesheet" href="content/css/cart.css" />
+    <link rel="stylesheet" href="content/css/check-out.css" />
+    <title>Cửa hàng bóng chuyển HPstore</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="header-top">
+        <div class="header-top-logo">
+          <a href="index.html"><img src="./content/images/home/logo.png" /></a>
+        </div>
+        <div class="header-top-search">
+          <!-- <div class="header-inputSearch"> -->
+          <!-- <form action="" method="get"> -->
+          <div class="search-box">
+            <input
+              type="text"
+              placeholder="Bạn cần tìm gì hôm nay ?"
+              name="keywords"
+            />
+            <button name="search-btn">
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+          <!-- </form> -->
+          <!-- </div> -->
+        </div>
+        <div class="header-top-phone">
+          <!-- <ion-icon name="phone-portrait-outline"></ion-icon> -->
+          <div class="phone-icon">
+            <i class="fas fa-mobile-alt"></i>
+          </div>
+          <div class="phone-number">0866100339</div>
+        </div>
+        <div class="header-top-account">
+          <div class="account-hover">
+            <ul>
+              <li><a href="login.html">Đăng nhập</a></li>
+              <li><a href="register.html">Đăng ký</a></li>
+              <li>
+                <a href="forget_pass.html">Quên mật khẩu</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="account-icon"><i class="fas fa-user"></i></div>
+          <div class="account-content">
+            <h4 class="account-title">Tài khoản</h4>
+            <p class="account-hello">Xin chào</p>
+          </div>
+        </div>
+        <div class="header-top-cart">
+          <div class="cart-icon">
+            <a href="cart.html" style="color: white"
+              ><i class="fas fa-shopping-bag"></i
+            ></a>
+          </div>
+
+          <div class="cart-count">0</div>
+        </div>
+      </div>
+    </header>
+
+    <div class="main-navagation">
+      <nav class="navigation-horizontal width-normal">
+        <ul id="cate-list">
+          <!-- CATEGORIES -->
+        </ul>
+      </nav>
+    </div>
+
+    <!-- ------------------HOME -------------------------------------->
+
+    <div class="bottom-nav">
+      <div class="bottom-nav--title width-normal">
+        <a href="index.html">Trang chủ</a>
+        <i class="fas fa-chevron-right"></i>
+        <span class="blue">Trang khách hàng</span>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="section-AF width-normal">
+        <div class="account-info--title">
+          <div class="info-title--txt">Quản lý tài khoản</div>
+          <div class="info-hello">Xin chào, <span id="name-Cus"></span></div>
+        </div>
+        <div class="account-info--boxed" id="manaAcc-content">
+          <!-- 0------------- -->
+          <div class="account-info--order">
+            <div class="info-boxed--title">Đơn hàng gần nhất</div>
+            <div class="account-order--list">
+              <table class="order-table">
+                <tr>
+                  <th>Mã HĐ</th>
+                  <th>Ngày mua</th>
+                  <th>Chuyển đến</th>
+                  <th>Tổng tiền</th>
+                  <th>Tình trạng đơn hàng</th>
+                  <th>Chi tiết</th>
+                  <th>Khác</th>
+                </tr>
+
+                <tr>
+                  <td>iD bill</td>
+                  <td>ngay</td>
+                  <td>dia chi</td>
+                  <td>tong tien</td>
+                  <td>trang thai</td>
+                  <td><a href="" class="a-fc">Xem</a></td>
+                  <td>huy</td>
+                </tr>
+
+                <!-- <tr>
+                    <td colspan="7">Không có đơn hàng nào</td>
+                  </tr> -->
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- --------------END HOME-------------------------------- -->
+    <footer>
+      <div class="footer">
+        <div class="footer-about footer-row">
+          <div class="footer-title">Về chúng tôi</div>
+          <ul>
+            <li><a href="#">Giới thiệu</a></li>
+            <li><a href="#">Liên hệ</a></li>
+          </ul>
+        </div>
+        <div class="footer-category footer-row">
+          <div class="footer-title">Danh mục</div>
+          <ul>
+            <li><a href="#">giày bóng chuyền</a></li>
+            <li><a href="#">đồng phục bóng chuyền</a></li>
+            <li><a href="#">phụ kiện bóng chuyền</a></li>
+            <li><a href="#">lưu niệm bóng chuyền</a></li>
+            <li><a href="#">blog bóng chuyền</a></li>
+            <li><a href="#">tin tức - sự kiện</a></li>
+            <li><a href="#">đánh giá sản phẩm</a></li>
+            <li><a href="#">flash sale 2022</a></li>
+          </ul>
+        </div>
+        <div class="footer-support footer-row">
+          <div class="footer-title">Hỗ trợ khách hàng</div>
+          <ul>
+            <li><a href="#">Hướng dẫn mua hàng</a></li>
+            <li><a href="#">Hướng dẫn chọn size</a></li>
+            <li><a href="#">Bảo hành - đổi trả</a></li>
+            <li><a href="#">Phản hồi - góp ý</a></li>
+          </ul>
+        </div>
+        <div class="footer-advise footer-row">
+          <div class="footer-title">Tư vấn - hỗ trợ</div>
+          <div class="advise-holine">
+            <div class="hotline-content">
+              <p class="hotline-title">Hotline 1</p>
+              <p class="hotline-phone">0866100339</p>
+            </div>
+            <div class="hotline-content">
+              <p class="hotline-title">Hotline 2</p>
+              <p class="hotline-phone">0866100339</p>
+            </div>
+          </div>
+          <div class="transport-connect">
+            <div class="transport">
+              <div class="transport-connect-title">Đối tác vận chuyển</div>
+              <div class="transport-img">
+                <img src="./content/images/footer/payment_1.png" />
+                <img src="./content/images/footer/payment_2.png" />
+                <img src="./content/images/footer/payment_3.png" />
+              </div>
+            </div>
+            <div class="connect">
+              <div class="transport-connect-title">Kết nối với chúng tôi</div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-fb.jpg" />
+                <div class="connect-content">Facebook</div>
+              </div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-twitter.jpg" />
+                <div class="connect-content">Twiiter</div>
+              </div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-google-plus.jpg" />
+                <div class="connect-content">Gooole+</div>
+              </div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-youtube.jpg" />
+                <div class="connect-content">Youtube</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="fixed-fb"></div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
+      <!-- <i class="fas fa-arrow-up"></i> -->
+    </button>
+    <script
+      data-require="jquery@3.1.1"
+      data-semver="3.1.1"
+      src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"
+    ></script>
+    <script src="./content/js/stylling.js"></script>
+    <script
+      type="text/javascript"
+      src="https://code.jquery.com/jquery-1.11.0.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"
+    ></script>
+    <script src="./content/js/Slider.js"></script>
+    <!-- <script src="./content/js/app.js"></script> -->
+    <script src="./main.js"></script>
+    <script>
+      checkLogin();
+      showInfoCus();
+      showToTalCart();
+      loadListCate();
+      searchProduct();
+
+      function loadDetailsOrder() {
+        const urlParams = new URLSearchParams(window.location.search);
+        id = Number(urlParams.get("id"));
+
+        fetch("http://localhost:3000/orders?id=" + id)
+          .then((response) => response.json())
+          .then((data) => {
+            var htmls = "";
+            var htmlP = "";
+            data.forEach((bill) => {
+              var transport = "";
+              if (bill.transport == 35000) {
+                transport = "Giao hàng tiết kiệm";
+              } else {
+                transport = "Giao hàng nhanh";
+              }
+              htmls += `
+              <div class="info-boxed--title">Chi tiết đơn hàng</div>
+              <div class="account-order--list mb50">
+                <table class="order-table">
+                  <tr class="tr-top">
+                    <td colspan="5" class="td-top">
+                      <div class="td-top--boxed">Thông tin vận chuyển</div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th>Tên người nhận</th>
+                    <th>Địa chỉ nhận</th>
+                    <th>Số điện thoại</th>
+                    <th>Phương thức giao hàng</th>
+                    <th>Ghi chú</th>
+                  </tr>
+
+                  <tr>
+                    <td>${bill.customer_name}</td>
+                    <td>${bill.customer_address}</td>
+                    <td>${bill.customer_phone}</td>
+                    <td>${transport}</td>
+                    <td>${bill.note}</td>
+                  </tr>
+                </table>
+              </div>
+
+              <div class="account-order--list">
+                <table class="order-table" id="list-proD">
+                  
+
+                  
+                </table>
+              </div>
+              `;
+              htmlP += `
+              <tr class="tr-top">
+                <td colspan="6" class="td-top">
+                  <div class="td-top--boxed">Chi tiết sản phẩm</div>
+                </td>
+              </tr>
+              <tr>
+                <th>Tên sản phẩm</th>
+                <th>Hình ảnh</th>
+                <th>Size</th>
+                <th>Số lượng</th>
+                <th>Đơn giá</th>
+                <th>Thành tiền</th>
+              </tr>
+              `;
+              bill.oder_detail.forEach((pro) => {
+                console.log(pro);
+                htmlP += `
+                <tr>
+                    <td>${pro.name}</td>
+                    <td><img class="bill-img" src="./content/images/product/${
+                      pro.image
+                    }" /></td>
+                    <td>size</td>
+                    <td>${pro.quantity}</td>
+                    <td>${numberWithCommas(pro.price)}đ</td>
+                    <td>${numberWithCommas(pro.price * pro.quantity)}đ</td>
+                  </tr>
+                `;
+              });
+            });
+            document.querySelector(".account-info--order").innerHTML = htmls;
+            document.querySelector("#list-proD").innerHTML = htmlP;
+          });
+      }
+      loadDetailsOrder();
+    </script>
+    <div>
+      <div class="account-info--order"></div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,807 @@
+{
+  "categories": [
+    {
+      "name": "Lưu niệm bóng chuyền",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Phụ kiện bóng chuyền"
+    },
+    {
+      "name": "Đồng phục bóng chuyền",
+      "id": 3
+    },
+    {
+      "name": "Giày bóng chuyền",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Cờ trao giải bóng chuyền thi đấu",
+      "cate_id": 1,
+      "price": "500000",
+      "sale_off": 10,
+      "image": "c-b-ng-chuy-n-d-c-c7e838ee-d79a-4c87-82c7-76d3b0f33795.jpg",
+      "date_add": "20/2/2022",
+      "description": "Cờ lưu niệm là một phần không thể thiếu trong mỗi giải đấu bóng chuyền. Là món đồ lưu giữ những kỉ niệm sau mỗi mùa giải đi qua.",
+      "id": 1
+    },
+    {
+      "name": "Cup Lưu Niệm Bóng Chuyền 2",
+      "cate_id": 1,
+      "price": "320000",
+      "sale_off": 0,
+      "image": "ec75c36ad69530cb6984.jpg",
+      "date_add": "20/2/2022",
+      "description": "Cúp lưu niệm là quà tặng không thể thiếu trong mỗi giải đấu bóng chuyền, đó là phần thưởng cho cá nhân hoặc tập thể xuất sắc nhất.\n\nThông tin : chất liệu nhựa, phủ màu vàng sáng không bay màu, chiều cao 35cm (bao gồm phần đế).",
+      "id": 2
+    },
+    {
+      "name": "Cúp Lưu Niệm Bóng Chuyền 4",
+      "cate_id": 1,
+      "price": "580000",
+      "sale_off": 0,
+      "image": "517fda63cf9c29c2708d.jpg",
+      "date_add": "20/2/2022",
+      "description": "Cúp lưu niệm là quà tặng không thể thiếu trong mỗi giải đấu bóng chuyền, đó là phần thưởng cho cá nhân hoặc tập thể xuất sắc nhất.\n\nThông tin : chất liệu hợp kim, phủ màu vàng sáng không bay màu, chiều cao 43cm (bao gồm phần đế).",
+      "id": 3
+    },
+    {
+      "name": "Cúp Lưu Niệm Bóng Chuyền 5",
+      "cate_id": 1,
+      "price": "680000",
+      "sale_off": 0,
+      "image": "5641c54ed0b136ef6fa0.jpg",
+      "date_add": "20/2/2022",
+      "description": "Cúp lưu niệm là quà tặng không thể thiếu trong mỗi giải đấu bóng chuyền, đó là phần thưởng cho cá nhân hoặc tập thể xuất sắc nhất.\n\nThông tin : chất liệu hợp kim, phủ màu vàng sáng không bay màu, chiều cao 45cm (bao gồm phần đế).",
+      "id": 4
+    },
+    {
+      "name": "Cup Lưu Niệm Bóng Chuyền 6",
+      "cate_id": 1,
+      "price": "850000",
+      "sale_off": 0,
+      "image": "ee8fa0bbb544531a0a55.jpg",
+      "date_add": "20/2/2022",
+      "description": "Cúp lưu niệm là quà tặng không thể thiếu trong mỗi giải đấu bóng chuyền, đó là phần thưởng cho cá nhân hoặc tập thể xuất sắc nhất.\n\nThông tin : chất liệu hợp kim, phủ màu vàng sáng không bay màu, chiều cao 60cm (bao gồm phần đế).",
+      "id": 5
+    },
+    {
+      "name": "Huy Chương Bóng Chuyền Kim Loại",
+      "cate_id": 1,
+      "price": "50000",
+      "sale_off": 0,
+      "image": "f5c14bd85e27b879e136.jpg",
+      "date_add": "20/2/2022",
+      "description": "Huy chương là phần thưởng dành cho những người dành chiến thắng trong những giải đấu bóng chuyền. Đó như sự thừa nhận cho những cố gắng của đội bóng, việc được trao huy chương đó là vinh dự của cá nhân và tập thể dành chiến thắng.\n\nHuy chương được làm ",
+      "id": 6
+    },
+    {
+      "name": "Huy Chương Bóng Chuyền Hợp Kim Màu",
+      "cate_id": 1,
+      "price": "80000",
+      "sale_off": 0,
+      "image": "e4c449ca5c35ba6be324.jpg",
+      "date_add": "20/2/2022",
+      "description": "Huy chương là phần thưởng dành cho những người dành chiến thắng trong những giải đấu bóng chuyền. Đó như sự thừa nhận cho những cố gắng của đội bóng, việc được trao huy chương đó là vinh dự của cá nhân và tập thể dành chiến thắng.\n\nHuy chương màu cao cấp",
+      "id": 7
+    },
+    {
+      "name": "Trái Bóng Chuyền Thăng Long 7400",
+      "cate_id": 2,
+      "price": 485000,
+      "sale_off": 0,
+      "image": "photo-1588492069485-d05b56b2831d.jpg",
+      "date_add": "20/2/2022",
+      "description": " Xuất xứ: Việt Nam\n\n Quả bóng chuyền thi đấu được làm từ chất liệu da PU của Nhật cực êm, giữ hơi tốt và tròn đều. Bóng được may rất chắc chắn và tạo cảm giác êm dịu tay khi đánh.\n\n Bộ sản phẩm bao gồm: 1 quả bóng, túi lưới.\n\n Màu sắc: Kết hợp hài hoà giữa 3 màu vàng + xanh + trắng.\n\n Quả bóng chuyền thi đấu đạt đầy đủ các tiêu huẩn quy định của Liên đoàn bóng chuyền thế giới.\n\n Sản phẩm được sử dụng trong các giải đấu cấp quốc gia và quốc tế tại Việt Nam.",
+      "id": 8
+    },
+    {
+      "name": "Quả Bóng Chuyền Thăng Long 7700",
+      "cate_id": 2,
+      "price": 720000,
+      "sale_off": 0,
+      "image": "photo-1592656094267-764a45160876.jpg",
+      "date_add": "20/2/2022",
+      "description": " Xuất xứ: Việt Nam\n\n Quả bóng chuyền thi đấu được làm từ chất liệu da PU của Nhật cực êm, giữ hơi tốt và tròn đều. Bóng được may rất chắc chắn và tạo cảm giác êm dịu tay khi đánh.\n\n Bộ sản phẩm bao gồm: 1 quả bóng, túi lưới.\n\n Màu sắc: Kết hợp hài hoà giữa 3 màu vàng + xanh + trắng.\n\n Quả bóng chuyền thi đấu đạt đầy đủ các tiêu huẩn quy định của Liên đoàn bóng chuyền thế giới.\n\n Sản phẩm được sử dụng trong các giải đấu cấp quốc gia và quốc tế tại Việt Nam.",
+      "id": 9
+    },
+    {
+      "name": "Băng gối dài LP",
+      "cate_id": 2,
+      "price": 270000,
+      "sale_off": 0,
+      "image": "tải xuống.jpg",
+      "date_add": "20/2/2022",
+      "description": "Phụ kiện không thể thiếu cho các trọng tài . Để giúp trọng tài hoàn thành tốt công việc",
+      "id": 10
+    },
+    {
+      "name": "Bóng VTV Cup",
+      "cate_id": 2,
+      "price": "300000",
+      "sale_off": 0,
+      "image": "mg-0305.jpg",
+      "date_add": "20/2/2022",
+      "description": " Xuất xứ: Việt Nam\n\n Quả bóng chuyền thi đấu được làm từ chất liệu da PU của Nhật cực êm, giữ hơi tốt và tròn đều. Bóng được may rất chắc chắn và tạo cảm giác êm dịu tay khi đánh.\n\n Bộ sản phẩm bao gồm: 1 quả bóng, túi lưới.\n\n Màu sắc: Kết hợp hài hoà giữa 3 màu vàng + xanh + trắng.\n\n Quả bóng chuyền thi đấu đạt đầy đủ các tiêu huẩn quy định của Liên đoàn bóng chuyền thế giới.\n\n Sản phẩm được sử dụng trong các giải đấu cấp quốc gia và quốc tế tại Việt Nam.",
+      "id": 11
+    },
+    {
+      "name": "Bóng Molten 4000",
+      "cate_id": 2,
+      "price": "670000",
+      "sale_off": 0,
+      "image": "mg-0306.jpg",
+      "date_add": "20/2/2022",
+      "description": " Xuất xứ: Việt Nam\n\n Quả bóng chuyền thi đấu được làm từ chất liệu da PU của Nhật cực êm, giữ hơi tốt và tròn đều. Bóng được may rất chắc chắn và tạo cảm giác êm dịu tay khi đánh.\n\n Bộ sản phẩm bao gồm: 1 quả bóng, túi lưới.\n\n Màu sắc: Kết hợp hài hoà giữa 3 màu vàng + xanh + trắng.\n\n Quả bóng chuyền thi đấu đạt đầy đủ các tiêu huẩn quy định của Liên đoàn bóng chuyền thế giới.\n\n Sản phẩm được sử dụng trong các giải đấu cấp quốc gia và quốc tế tại Việt Nam.",
+      "id": 12
+    },
+    {
+      "name": "Băng gối bảo vệ 360 VN Support",
+      "cate_id": 2,
+      "price": "235000",
+      "sale_off": 0,
+      "image": "bo1.jpg",
+      "date_add": "20/2/2022",
+      "description": " GIỚI THIỆU\n\nBăng Bảo Vệ Khớp Gối 360º - chuyên hỗ trợ cho chấn thương khớp đầu gối trong thể thao. Giảm đau nhức trong vận động, hỗ trợ chân bị thoái hóa khớp, giãn dây chằng và đứt dây chằng. Băng gối 360º còn giúp phục hồi sau chấn thương, phù hợp cho hầu hết các môn thể thao trên mặt đất.\n\nBăng gối 360º nằm trong bộ Băng Gối Glofit hỗ trợ vận động giảm áp lực lên đầu gối và bảo vệ dây chằng tối ưu. Điểm nổi bật của dòng sản phẩm này có 2 thanh trợ lực giúp nâng đỡ cơ thể và hỗ trợ bật nhảy, vòng silicon bo gọn xương bánh chè cố định cho bạn xoay chân thỏa mái và tự tin hơn trong khi chơi thể thao.",
+      "id": 13
+    },
+    {
+      "name": "Băng Gối Ngắn VN Support SS",
+      "cate_id": 2,
+      "price": 60000,
+      "sale_off": 0,
+      "image": "AOLIKES-2PCS-Lot-Volleyball-Knee-Pads-Thicker-Sponge-Sports-Support-Kneepads-for-Basketball-Dance-joelheira-rodilleras.jpg_640x640.jpg",
+      "date_add": "20/2/2022",
+      "description": " GIỚI THIỆU\n\nBăng Bảo Vệ Khớp Gối 360º - chuyên hỗ trợ cho chấn thương khớp đầu gối trong thể thao. Giảm đau nhức trong vận động, hỗ trợ chân bị thoái hóa khớp, giãn dây chằng và đứt dây chằng. Băng gối 360º còn giúp phục hồi sau chấn thương, phù hợp cho hầu hết các môn thể thao trên mặt đất.\n\nBăng gối 360º nằm trong bộ Băng Gối Glofit hỗ trợ vận động giảm áp lực lên đầu gối và bảo vệ dây chằng tối ưu. Điểm nổi bật của dòng sản phẩm này có 2 thanh trợ lực giúp nâng đỡ cơ thể và hỗ trợ bật nhảy, vòng silicon bo gọn xương bánh chè cố định cho bạn xoay chân thỏa mái và tự tin hơn trong khi chơi thể thao.",
+      "id": 14
+    },
+    {
+      "name": "Băng Gối 360 Glofit Full Black",
+      "cate_id": 2,
+      "price": "290000",
+      "sale_off": 0,
+      "image": "bo3.jpg",
+      "date_add": "20/2/2022",
+      "description": " GIỚI THIỆU\n\nBăng Bảo Vệ Khớp Gối 360º - chuyên hỗ trợ cho chấn thương khớp đầu gối trong thể thao. Giảm đau nhức trong vận động, hỗ trợ chân bị thoái hóa khớp, giãn dây chằng và đứt dây chằng. Băng gối 360º còn giúp phục hồi sau chấn thương, phù hợp cho hầu hết các môn thể thao trên mặt đất.\n\nBăng gối 360º nằm trong bộ Băng Gối Glofit hỗ trợ vận động giảm áp lực lên đầu gối và bảo vệ dây chằng tối ưu. Điểm nổi bật của dòng sản phẩm này có 2 thanh trợ lực giúp nâng đỡ cơ thể và hỗ trợ bật nhảy, vòng silicon bo gọn xương bánh chè cố định cho bạn xoay chân thỏa mái và tự tin hơn trong khi chơi thể thao.",
+      "id": 15
+    },
+    {
+      "name": "ĐỒNG PHỤC BEYONO LEGEND NỮ - VÀNG",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "vang-1.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+      "id": 16
+    },
+    {
+      "name": "ĐỒNG PHỤC BEYONO LEGEND NỮ - XANH ĐEN",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "xd-4.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+      "id": 17
+    },
+    {
+      "name": "ĐỒNG PHỤC BEYONO LIGHTING NAM - XANH LÁ",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "xanhla2.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+      "id": 18
+    },
+    {
+      "name": "ĐỒNG PHỤC BEYONO LIGHTING NAM - XÁM",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "521eb3f01575e62bbf643.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+      "id": 19
+    },
+    {
+      "name": "ĐỒNG PHỤC BEYONO LIGHTING NAM - ĐỎ",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "lighting-resize4.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.ĐỒNG PHỤC BEYONO LIGHTING NAM - ĐỎ",
+      "id": 20
+    },
+    {
+      "name": "ĐỒNG PHỤC BEYONO LIGHTING NAM - XANH",
+      "cate_id": 3,
+      "price": 160000,
+      "sale_off": 0,
+      "image": "xanhla1.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.ĐỒNG PHỤC BEYONO LIGHTING NAM - ĐỎ",
+      "id": 21
+    },
+    {
+      "name": "Đồng Phục Bóng Chuyền Beyono Thunder Nam - Xanh",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "thunder-xanh.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.ĐỒNG PHỤC BEYONO LIGHTING NAM - ĐỎ",
+      "id": 22
+    },
+    {
+      "name": "Đồng Phục Bóng Chuyền Beyono Thunder Nam - Đỏ",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "thunder-do-4.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.ĐỒNG PHỤC BEYONO LIGHTING NAM - ĐỎ",
+      "id": 23
+    },
+    {
+      "name": "Đồng Phục Bóng Chuyền Beyono Vincent Nam - Đen",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "9b02eb0e8bfa7ba422eb2.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.ĐỒNG PHỤC BEYONO LIGHTING NAM - ĐỎ",
+      "id": 24
+    },
+    {
+      "name": "Đồng Phục Bóng Chuyền Beyono Vincent Nam - Hồng",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "5a6ffe629e966ec837875.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại  Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+      "id": 25
+    },
+    {
+      "name": "Đồng Phục Bóng Chuyền Beyono Vincent Nam - Xanh Dương",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "8af4c7fca70857560e198.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại  Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+      "id": 26
+    },
+    {
+      "name": "Đồng Phục Bóng Chuyền Beyono Vincent Nam - Xanh Lá",
+      "cate_id": 3,
+      "price": "160000",
+      "sale_off": 0,
+      "image": "78d806d16625967bcf34111.jpg",
+      "date_add": "20/2/2022",
+      "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại  Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+      "id": 27
+    },
+    {
+      "name": "Giày bóng chuyền Mizuno Thunder Blade Mid 2 - Xanh",
+      "cate_id": 4,
+      "price": "1750000",
+      "sale_off": 0,
+      "image": "na2-ba45c1c0-ca37-4cc9-9b17-943da4f706e5.jpg",
+      "date_add": "20/2/2022",
+      "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+      "id": 28
+    },
+    {
+      "name": "Giày Bóng Chuyền Beyono Sky Dream - Grey",
+      "cate_id": 4,
+      "price": "650000",
+      "sale_off": 0,
+      "image": "grey.jpg",
+      "date_add": "20/2/2022",
+      "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+      "id": 29
+    },
+    {
+      "name": "Giày Bóng Chuyền Beyono Sky Dream - Blue",
+      "cate_id": 4,
+      "price": "650000",
+      "sale_off": 0,
+      "image": "blue.jpg",
+      "date_add": "20/2/2022",
+      "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+      "id": 30
+    },
+    {
+      "name": "Giày Bóng Chuyền Beyono Sky Dream - White Red",
+      "cate_id": 4,
+      "price": "650000",
+      "sale_off": 0,
+      "image": "white-red.jpg",
+      "date_add": "20/2/2022",
+      "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+      "id": 31
+    },
+    {
+      "name": "Giày bóng chuyền Beyono Golden Star C - White Blue",
+      "cate_id": 4,
+      "price": 790000,
+      "sale_off": 5,
+      "image": "beyono-golden-start-c-1.jpg",
+      "date_add": "20/2/2022",
+      "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+      "id": 32
+    },
+    {
+      "name": "Giày bóng chuyền Beyono Golden Star C - Green Gray",
+      "cate_id": 4,
+      "price": 790000,
+      "sale_off": 10,
+      "image": "beyono-golden-start-c-7.jpg",
+      "date_add": "20/2/2022",
+      "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+      "id": 33
+    },
+    {
+      "name": "Giày bóng chuyền Beyono Golden Star C - Black",
+      "cate_id": 4,
+      "price": 790000,
+      "sale_off": 10,
+      "image": "z2442864077595-7b62e1e98a43a7034c59148743014489.jpg",
+      "date_add": "20/2/2022",
+      "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+      "id": 34
+    }
+  ],
+  "warehouse": [
+    {
+      "id": 1,
+      "size": 39,
+      "quantity": 10,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "size": 40,
+      "quantity": 10,
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "size": 40,
+      "quantity": 10,
+      "productId": 2
+    }
+  ],
+  "customer": [
+    {
+      "user_name": "nhienth",
+      "password": "hoangnhien",
+      "full_name": "Nhien",
+      "avatar": "Luffy.jfif",
+      "phone": "84249823444",
+      "email": "nhienth039@gmail.com",
+      "address": "Quang Tri",
+      "role": 0,
+      "id": 1
+    },
+    {
+      "user_name": "nhienhoang",
+      "password": "12345",
+      "full_name": "Hoang Nhien",
+      "avatar": "ec9a4c0a7f3aea8a819354a0933540ad.jpg",
+      "phone": "842498234",
+      "email": "nhienthpd04905@fpt.edu.vnn",
+      "address": "Da Nang",
+      "role": 1,
+      "id": 2
+    },
+    {
+      "user_name": "nhienhoangtran",
+      "password": "12345",
+      "full_name": "Hoang Nhien",
+      "avatar": "IMAGINES ANIMES  - luffy __ anime_ one piece.jfif",
+      "phone": "842498234",
+      "email": "nhienthpd04905@fpt.edu.vn",
+      "address": "Hung Yen",
+      "role": 1,
+      "id": 3
+    },
+    {
+      "user_name": "nhienthhhhhh",
+      "password": "aaaaaa",
+      "full_name": "Tran Hoang Nhien",
+      "avatar": "requests open!.png",
+      "phone": "84249823444",
+      "email": "nhienthpd04905@fpt.edu.vn",
+      "address": "Quảng Trị - Cam Lộ",
+      "role": 0,
+      "id": 4
+    }
+  ],
+  "news": [
+    {
+      "title": "Ở NHÀ RINH QUÀ LỚN CÙNG BEYONO EAGLE 7",
+      "content": "Nhằm hưởng ứng phong trào ở nhà chống dịch #HPstore tiếp tục tung ra một chương trình mua sắm Online siêu hấp dẫn nữa đến cho Quý khách hàng.\n\nThông tin chương trình: Khi mua giày bóng chuyền Beyono Eagle 7 quý khách sẽ được lựa chọn 1 trong 2 ưu đãi sa",
+      "image": "a0-f04ef5fc-a07e-4847-b664-ee45f8a99bf6.jpg",
+      "summary": "Nhằm hưởng ứng phong trào ở nhà chống dịch #HPstore tiếp tục tung ra một chương trình mua sắm Online siêu hấp dẫn nữa đến cho Quý khách hàng.",
+      "date_post": "21/2/2022",
+      "id": 1
+    },
+    {
+      "title": "TẶNG NGAY 1 BỘ QUẦN ÁO BÓNG CHUYỀN KHI MUA BEYONO ",
+      "content": "Nhân sự kiện Beyono Golden Star C ra mắt phối màu Red Black, HPstore tung ra siêu khuyến mãi trong tháng 7 này!\n\n\nTặng ngay 1 bộ quần áo bóng chuyền Beyono khi mua bất kỳ phối màu nào của Beyono Golden Star C. Thời gian bắt đầu từ ngày 01/07 đến hết 31",
+      "image": "gdcerb-ver2.jpg",
+      "summary": "Nhân sự kiện Beyono Golden Star C ra mắt phối màu Red Black, HPstore tung ra siêu khuyến mãi trong tháng 7 này!",
+      "date_post": "21/2/2022",
+      "id": 2
+    },
+    {
+      "title": "SỰ KIỆN RA MẮT BEYONO SKY DREAM - TẶNG ĐỒ BÓNG CHU",
+      "content": "Từ ngày 23/7 đến 25/7 #HPstore tung ra chương trình ưu đãi siêu hấp dẫn dành cho các #HPer\n\nTặng kèm 1 bộ đồ bóng chuyền và 1 đôi vớ bóng chuyền Beyono khi Quý khách đến mua #SkyDream tại cửa hàng HPstore tại 295 Nguyễn Văn Công, F.3, Gò Vấp HCM và thực",
+      "image": "c2050a917b8487dade95.jpg",
+      "summary": "Từ ngày 23/7 đến 25/7 #HPstore tung ra chương trình ưu đãi siêu hấp dẫn dành cho các #HPer",
+      "date_post": "21/2/2022",
+      "id": 3
+    },
+    {
+      "title": "TẶNG NGAY TÚI ĐỰNG THỂ THAO BEYONO VÀ FREESHIP KHI",
+      "content": "nnnnnnnnnnnnnnnnnnnnnnnnn",
+      "image": "done.jpg",
+      "summary": "Nhằm hưởng ứng phong trào ở nhà chống dịch #HPstore tung ra chương trình mua sắm Online siêu hấp dẫn.",
+      "date_post": "21/2/2022",
+      "id": 4
+    }
+  ],
+  "comment": [
+    {
+      "content": "abde",
+      "productId": 32,
+      "userId": 1,
+      "userName": "nhienth",
+      "userFullName": "Nhien",
+      "user_avatar": "Luffy.jfif",
+      "day_comment": "2/3/2022",
+      "id": 2
+    },
+    {
+      "content": "aaaaaaaaaaa",
+      "productId": 33,
+      "userId": 2,
+      "userName": "nhienhoang",
+      "userFullName": "Hoang Nhien",
+      "user_avatar": "ec9a4c0a7f3aea8a819354a0933540ad.jpg",
+      "day_comment": "2/3/2022",
+      "id": 3
+    },
+    {
+      "content": "123456",
+      "productId": 34,
+      "userId": 1,
+      "userName": "nhienth",
+      "userFullName": "Nhien",
+      "user_avatar": "Luffy.jfif",
+      "day_comment": "2/3/2022",
+      "id": 4
+    },
+    {
+      "content": "giày đẹp",
+      "productId": 29,
+      "userId": 1,
+      "userName": "nhienth",
+      "userFullName": "Nhien",
+      "user_avatar": "Luffy.jfif",
+      "day_comment": "2/3/2022",
+      "id": 5
+    },
+    {
+      "content": "giá cả thích hợp",
+      "productId": 29,
+      "userId": 1,
+      "userName": "nhienth",
+      "userFullName": "Nhien",
+      "user_avatar": "Luffy.jfif",
+      "day_comment": "2/3/2022",
+      "id": 6
+    },
+    {
+      "content": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "productId": 32,
+      "userId": 1,
+      "userName": "nhienth",
+      "userFullName": "Nhien",
+      "user_avatar": "Luffy.jfif",
+      "day_comment": "2/3/2022",
+      "id": 7
+    },
+    {
+      "content": "aso ddepj",
+      "productId": 24,
+      "userId": 1,
+      "userName": "nhienth",
+      "userFullName": "Nhien",
+      "user_avatar": "Luffy.jfif",
+      "day_comment": "2/3/2022",
+      "id": 8
+    },
+    {
+      "content": "aaaaaaaaaa",
+      "productId": 32,
+      "userId": 2,
+      "userName": "nhienhoang",
+      "userFullName": "Hoang Nhien",
+      "user_avatar": "ec9a4c0a7f3aea8a819354a0933540ad.jpg",
+      "day_comment": "3/3/2022",
+      "id": 9
+    }
+  ],
+  "orders": [
+    {
+      "customerId": 1,
+      "customer_name": "Nhien",
+      "customer_phone": "84249823444",
+      "customer_address": "DN",
+      "customer_email": "nhienth039@gmail.com",
+      "created_date": "2/3/2022",
+      "transport": 35000,
+      "payment": 0,
+      "total_money": 3020000,
+      "note": "",
+      "status": 0,
+      "oder_detail": [
+        {
+          "name": "Giày bóng chuyền Beyono Golden Star C - White Blue",
+          "cate_id": 4,
+          "price": 790000,
+          "sale_off": 5,
+          "image": "beyono-golden-start-c-1.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 32,
+          "quantity": 3
+        },
+        {
+          "name": "Giày Bóng Chuyền Beyono Sky Dream - Grey",
+          "cate_id": 4,
+          "price": "650000",
+          "sale_off": 0,
+          "image": "grey.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 29,
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "customerId": 1,
+      "customer_name": "Nhien",
+      "customer_phone": "84249823444",
+      "customer_address": "DN",
+      "customer_email": "nhienth039@gmail.com",
+      "created_date": "2/3/2022",
+      "transport": 50000,
+      "payment": 1,
+      "total_money": 4320000,
+      "note": "aaaaaaaa",
+      "status": 4,
+      "oder_detail": [
+        {
+          "name": "Giày bóng chuyền Beyono Golden Star C - White Blue",
+          "cate_id": 4,
+          "price": 790000,
+          "sale_off": 5,
+          "image": "beyono-golden-start-c-1.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 32,
+          "quantity": 3
+        },
+        {
+          "name": "Giày Bóng Chuyền Beyono Sky Dream - Grey",
+          "cate_id": 4,
+          "price": "650000",
+          "sale_off": 0,
+          "image": "grey.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 29,
+          "quantity": 3
+        }
+      ],
+      "id": 3
+    },
+    {
+      "customerId": 1,
+      "customer_name": "Nhien",
+      "customer_phone": "84249823444",
+      "customer_address": "Quang Tri",
+      "customer_email": "nhienth039@gmail.com",
+      "created_date": "2/3/2022",
+      "transport": 35000,
+      "payment": 0,
+      "total_money": 4320000,
+      "note": "",
+      "status": "2",
+      "oder_detail": [
+        {
+          "name": "Giày bóng chuyền Beyono Golden Star C - White Blue",
+          "cate_id": 4,
+          "price": 790000,
+          "sale_off": 5,
+          "image": "beyono-golden-start-c-1.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 32,
+          "quantity": 3
+        },
+        {
+          "name": "Giày Bóng Chuyền Beyono Sky Dream - Grey",
+          "cate_id": 4,
+          "price": "650000",
+          "sale_off": 0,
+          "image": "grey.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 29,
+          "quantity": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "customerId": 2,
+      "customer_name": "Hoang Nhien",
+      "customer_phone": "842498234",
+      "customer_address": "Da Nang",
+      "customer_email": "nhienthpd04905@fpt.edu.vnn",
+      "created_date": "2/3/2022",
+      "transport": 35000,
+      "payment": 0,
+      "total_money": 4320000,
+      "note": "",
+      "status": "3",
+      "oder_detail": [
+        {
+          "name": "Giày bóng chuyền Beyono Golden Star C - White Blue",
+          "cate_id": 4,
+          "price": 790000,
+          "sale_off": 5,
+          "image": "beyono-golden-start-c-1.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 32,
+          "quantity": 3
+        },
+        {
+          "name": "Giày Bóng Chuyền Beyono Sky Dream - Grey",
+          "cate_id": 4,
+          "price": "650000",
+          "sale_off": 0,
+          "image": "grey.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 29,
+          "quantity": 3
+        }
+      ],
+      "id": 5
+    },
+    {
+      "customerId": 2,
+      "customer_name": "Tran Hoang Nhien",
+      "customer_phone": "842498234",
+      "customer_address": "Lien Chieu - Da Nang",
+      "customer_email": "nhienthpd04905@fpt.edu.vnn",
+      "created_date": "2/3/2022",
+      "transport": 50000,
+      "payment": 0,
+      "total_money": 1760000,
+      "note": "aaaaaaaaaa",
+      "status": 0,
+      "oder_detail": [
+        {
+          "name": "Giày bóng chuyền Beyono Golden Star C - White Blue",
+          "cate_id": 4,
+          "price": 790000,
+          "sale_off": 5,
+          "image": "beyono-golden-start-c-1.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 32,
+          "quantity": 1
+        },
+        {
+          "name": "Giày Bóng Chuyền Beyono Sky Dream - Grey",
+          "cate_id": 4,
+          "price": "650000",
+          "sale_off": 0,
+          "image": "grey.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 29,
+          "quantity": 1
+        },
+        {
+          "name": "Đồng Phục Bóng Chuyền Beyono Vincent Nam - Xanh Lá",
+          "cate_id": 3,
+          "price": "160000",
+          "sale_off": 0,
+          "image": "78d806d16625967bcf34111.jpg",
+          "date_add": "20/2/2022",
+          "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại  Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+          "id": 27,
+          "quantity": 2
+        }
+      ],
+      "id": 6
+    },
+    {
+      "customerId": 2,
+      "customer_name": "Hoang Nhien",
+      "customer_phone": "842498234",
+      "customer_address": "Da Nang",
+      "customer_email": "nhienthpd04905@fpt.edu.vnn",
+      "created_date": "2/3/2022",
+      "transport": 35000,
+      "payment": 0,
+      "total_money": 2220000,
+      "note": "abcde",
+      "status": 0,
+      "oder_detail": [
+        {
+          "name": "Đồng Phục Bóng Chuyền Beyono Vincent Nam - Xanh Lá",
+          "cate_id": 3,
+          "price": "160000",
+          "sale_off": 0,
+          "image": "78d806d16625967bcf34111.jpg",
+          "date_add": "20/2/2022",
+          "description": "Lấy cảm hứng từ Ánh Sáng \"Beyono Lighting\" là biểu trưng của sự nhiệt huyết, máu lửa và lan tỏa năng lượng tích cực đến với đồng đội.Beyono Việt Nam đã dành rất nhiều tâm ý vào trong thiết kế lần này. Điểm nhấn trên #Beyono_Lighting là việc áp dụng công nghệ vải Be-Nippy độc quyền, cùng những đường nét được phối ghép tinh tế trên nền màu cơ bản, pha trộn giữa nét cổ điển và hiện đại  Tất cả đã tạo nên một tổng thể hài hòa, mạnh mẽ và cuốn hút cho bộ trang phục.\n Những tính năng đột phá của Be-Nippy:\nChất vải co giãn 4 chiều, thông hơi thoáng khí, tạo cảm giác thoải mái khi chơi bóng bóng chuyền ở cường độ cao.\nThấm hút mồ hôi và khử mùi trên áo khi đánh bóng trong một thời gian dài.\nThành phần Polyeste cao cấp không nhăn.",
+          "id": 27,
+          "quantity": 2
+        },
+        {
+          "name": "Huy Chương Bóng Chuyền Kim Loại",
+          "cate_id": 1,
+          "price": "50000",
+          "sale_off": 0,
+          "image": "f5c14bd85e27b879e136.jpg",
+          "date_add": "20/2/2022",
+          "description": "Huy chương là phần thưởng dành cho những người dành chiến thắng trong những giải đấu bóng chuyền. Đó như sự thừa nhận cho những cố gắng của đội bóng, việc được trao huy chương đó là vinh dự của cá nhân và tập thể dành chiến thắng.\n\nHuy chương được làm ",
+          "id": 6,
+          "quantity": 3
+        },
+        {
+          "name": "Giày bóng chuyền Mizuno Thunder Blade Mid 2 - Xanh",
+          "cate_id": 4,
+          "price": "1750000",
+          "sale_off": 0,
+          "image": "na2-ba45c1c0-ca37-4cc9-9b17-943da4f706e5.jpg",
+          "date_add": "20/2/2022",
+          "description": "Một đôi giày không thể thiếu khi bạn chơi bóng chuyền vì nó có những đặc điểm dưới đây :\n Êm chân và an toàn cho người chơi thể thao:\nHướng tới sự an toàn cho đôi chân của người sử dụng trong quá trình chơi thể thao, đội ngũ của thương hiệu Mizuno đã nghiên cứu và thiết kế sản phẩm giày Mizuno Thunder Blade. Nhờ sử dụng công nghệ SR touch AP kết hợp cùng công nghệ Midsole tích hợp ở lớp đệm của đế giữa nên đôi giày này mang tới cho người dùng cảm giác êm chân, dễ dàng bật nhảy và tiếp đất không bị sốc. Lớp lót đế Cupinsole cực nhẹ và êm giúp cho khớp bàn chân dưới thoải mái di chuyển. \n\nThoáng khí cho đôi chân:\nChơi các môn thể thao nói chung và bóng chuyền nói riêng, thời gian mang giày của cả vận động viên chuyên nghiệp lẫn người không chuyên nghiệp đều khá dài. Vì vậy, giày bóng chuyền Mizuno được sử dụng công nghệ khí Airmesh - công nghệ đặc trưng của của Mizuno tích hợp trên mũi giày giúp thông khí và thoải mái cho đôi bàn chân. \n\n Độ đàn hồi cao:\nĐặc trưng của bộ môn bóng chuyền là bật nhảy và di chuyển nhanh, vì thế để tăng tính linh hoạt và tạo cảm giác dậm nhảy tốt nhất, giày Mizuno chính hãng được sử dụng công nghệ Dynanotion Groove. Hơn thế nữa, sản phẩm còn được tích hợp dùng cả công nghệ Wave, điều này giúp tăng cường chức năng đàn hồi, tính co giãn cao và phân tán các tác động của ngoại lực, giảm chấn thương cực tốt khi người chơi thể thao dậm nhảy và tiếp đất. \nCam kết sản phẩm chính hãng:\nĐã có kinh nghiệm 6 năm trong lĩnh vực cung cấp phụ kiện và đồ thể thao, sản phẩm của HP Store, trong đó có các loại giày thể thao, giày bóng chuyền đã được rất nhiều khách hàng lựa chọn và đặt sự tin tưởng vào sản phẩm của chúng tôi. HP Store đảm bảo mang tới những sản phẩm chất lượng cao cấp, có nguồn gốc xuất xứ chính hãng và giấy tờ cam kết hàng thật.\n\n Ưu đãi, tặng kèm:\nkhi mua giày bóng chuyền Mizuno Thunder Blade quý khách sẽ được tặng kèm 1 cặp vớ Mizuno chính hãng, ngoài ra còn được miễn phí vận chuyển trên toàn quốc.\n\n Chế độ đổi trả - bảo hành tốt:\nBất cứ sản phẩm nào khi khách hàng mua của HP Store cũng được bảo hành, chúng tôi có chính sách 1 đổi 1 trong trường hợp sản phẩm bị hỏng, lỗi (do nhà sản xuất) hoặc giao nhầm sai trong quá trình vận chuyển, thời gian đổi trả trong vòng 7 ngày. Chúng tôi luôn mong muốn mang tới cho khách hàng sản phẩm chất lượng tốt và hơn thế nữa là dịch vụ nhanh gọn, đảm bảo quyền lợi khách hàng.",
+          "id": 28,
+          "quantity": 1
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "order_details": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "image": "../content/images/product/blue.jpg",
+      "product_name": "Giayf giafy",
+      "product_price": 50000,
+      "into_money": 1000000,
+      "order_id": 1
+    }
+  ]
+}

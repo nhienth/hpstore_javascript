@@ -1,0 +1,409 @@
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.form-payment {
+  display: block;
+  width: 1250px;
+  margin: 0 auto;
+}
+.payment-flex {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.info-user {
+  width: 35%;
+}
+.shop-title {
+  padding: 15px 0px;
+}
+.shop-title a {
+  display: block;
+  font-size: 50px;
+  letter-spacing: 4px;
+  transition: all 0.25s linear;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  background-size: 400% 400%;
+  background-image: linear-gradient(
+    -45deg,
+    #fc6c8f,
+    #ff2ced,
+    #ffb86c,
+    #2cccff,
+    #20e3b2,
+    #ffcc70,
+    #c850c0,
+    #4158d0
+  );
+  animation: gradient 5s ease alternate infinite;
+}
+.info-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.info-title {
+  color: #333;
+  font-weight: 500;
+  font-size: 17px;
+  padding-bottom: 10px;
+}
+.info-log a {
+  color: #2a9dcc;
+  font-size: 16px;
+  transition: all 0.2s linear;
+}
+.info-log a:hover {
+  color: #112d6b;
+}
+.form-field input {
+  display: block;
+  width: 100%;
+  height: 45px;
+  padding: 0 20px;
+  border-radius: 3px;
+  border: 1px solid lightgray;
+  transition: 0.25s ease;
+  font-size: 15px;
+}
+.form-field input:focus {
+  border-color: #6a5af9;
+}
+.form-field {
+  position: relative;
+  margin-bottom: 30px;
+}
+.form-field label {
+  display: block;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 21px;
+  user-select: none;
+  color: #999;
+  pointer-events: none;
+  transition: all 0.25s ease;
+  font-size: 15px;
+}
+.form-field input:not(:placeholder-shown) + label,
+.form-field textarea:not(:placeholder-shown) + label,
+.form-field input:focus + label,
+.form-field textarea:focus + label {
+  top: 0;
+  left: 11px;
+  color: #6a5af9;
+  background-color: white;
+  padding: 0px 10px;
+}
+.form-input textarea {
+  border: 1px solid lightgray;
+  width: 100%;
+  border-radius: 4px;
+  padding: 10px 20px;
+  resize: none;
+  overflow: hidden;
+}
+.payment-choice {
+  width: 30%;
+  padding-top: 88px;
+}
+.payment-choice--title {
+  font-size: 17px;
+  font-weight: 500;
+  padding-bottom: 2px;
+  margin-top: 8px;
+}
+.box-label {
+  display: block;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid lightgray;
+  padding: 15px 10px;
+  border-radius: 4px;
+  padding-left: 50px;
+  position: relative;
+}
+.box-label::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  border-radius: 100rem;
+  border: 1px solid lightgray;
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: all 0.2s linear;
+}
+.box-label::after {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 100rem;
+  background-color: white;
+  position: absolute;
+  left: 22.5px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: all 0.2s linear;
+}
+.payment-choice--transport input {
+  visibility: hidden;
+}
+.payment-choice--transport input:checked + label::before {
+  border-color: #337ab7;
+  background-color: #337ab7;
+}
+.payment-choice--transport input:checked + label::after {
+  background-color: white;
+}
+.margin-top {
+  margin-top: 50px;
+}
+.fa-money-bill-alt,
+.fa-cc-paypal {
+  color: #337ab7;
+  font-size: 20px;
+}
+.payment-order {
+  width: 35%;
+  /* border: 1px solid blue; */
+  min-height: 718px;
+  border-left: 1px solid lightgray;
+  /* background-color: #fafafa;
+  z-index: -10; */
+}
+.payment-order--title {
+  font-weight: 500;
+  font-size: 20px;
+  padding: 20px;
+  margin-right: 15px;
+  border-bottom: 1px solid lightgray;
+}
+.payment-order--product {
+  border-bottom: 1px solid lightgray;
+  margin: 15px;
+  max-height: 220px;
+  overflow-y: auto;
+}
+.payment-order--product::-webkit-scrollbar {
+  width: 0.5em;
+}
+
+.payment-order--product::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px solid #ccc;
+}
+
+.payment-order--product::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: linear-gradient(left, #fff, #e4e4e4);
+  border: 1px solid #aaa;
+}
+
+.payment-order--product::-webkit-scrollbar-thumb:hover {
+  background: #fff;
+}
+
+.payment-order--product::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(left, #22add4, #1e98ba);
+}
+.product-order {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0px;
+  gap: 10px;
+}
+.order-img {
+  width: 15%;
+  position: relative;
+  height: 45px;
+}
+.order-img .order-count {
+  width: 20px;
+  height: 20px;
+  border-radius: 100rem;
+  background-color: #2a9dcc;
+  color: white;
+  text-align: center;
+  font-weight: 300;
+  font-size: 12px;
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding-top: 2px;
+}
+.order-img img {
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+}
+.order-size,
+.order-price {
+  color: #737373;
+}
+.payment-order--price {
+  margin: 0px 15px;
+  color: #717171;
+  padding-bottom: 15px;
+  border-bottom: 1px solid lightgray;
+  font-size: 15px;
+}
+.order-price--element {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 7px 0px;
+}
+.last-oder {
+  padding: 10px 0px;
+  border: none;
+}
+.oder-price--sum {
+  font-size: 18px;
+  color: #333;
+}
+.oder-price--offcial {
+  font-size: 22px;
+  color: #1e98ba;
+  font-weight: 500;
+  /* line-height: 40px; */
+}
+.payment-oder--submit {
+  margin-top: 20px;
+}
+.order-submit--box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 13px;
+}
+.order-submit--box a {
+  color: #1e98ba;
+  display: inline-block;
+  position: relative;
+  transition: all 0.25s linear;
+}
+.order-submit--box a::before {
+  content: "\f053";
+  font-family: Fontawesome;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-45%);
+  color: currentColor;
+  left: -13px;
+  font-size: 13px;
+  transition: all 0.25s linear;
+}
+.order-submit--box a:hover {
+  color: #112d6b;
+}
+.order-submit--box a:hover::before {
+  left: -18px;
+}
+.btn-order {
+  display: block;
+  text-transform: uppercase;
+  color: white;
+  background-color: #357ebd;
+  padding: 15px 25px;
+  font-size: 17px;
+  border-radius: 3px;
+  position: relative;
+  transition: background-color 0.25s ease 0.5s;
+  transition: box-shadow 0.25s ease 0.75s;
+}
+.btn-order span {
+  display: inline-block;
+  position: absolute;
+  background-color: red;
+  background-image: linear-gradient(to right, #780206, #061161);
+  /* background-image: linear-gradient(to right, #ff4e50, #f9d423); */
+  transition: all 0.25s linear;
+}
+.btn-order span:nth-child(1) {
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  /* transition: all 0.25s linear; */
+}
+.btn-order span:nth-child(2) {
+  top: 0;
+  right: 0;
+  width: 2px;
+  height: 0;
+  /* transition: all 0.25s linear 0.25s; */
+}
+.btn-order span:nth-child(3) {
+  bottom: 0;
+  right: 0;
+  width: 0;
+  height: 2px;
+  /* transition: all 0.25s linear 0.5s; */
+}
+.btn-order span:nth-child(4) {
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  height: 0;
+  /* transition: all 0.25s linear 0.75s; */
+}
+.btn-order:hover span:nth-child(odd) {
+  width: 100%;
+}
+.btn-order:hover span:nth-child(even) {
+  height: 100%;
+}
+.btn-order:hover {
+  background-color: transparent;
+  box-shadow: 4px 4px 7px #136a8a;
+}
+.btn-order::before {
+  content: "";
+  top: 0;
+  left: 0;
+  /* transform: translate(-50%, 0); */
+  position: absolute;
+  width: 0;
+  height: 100%;
+  z-index: -1;
+  background-image: linear-gradient(to right, #136a8a, #267871);
+  transition: all 0.5s linear 0.25s;
+}
+/* .btn-order::after {
+  content: "";
+  top: 50%;
+  left: 0;
+  position: absolute;
+  transform: translate(0, -50%);
+  width: 100%;
+  height: 0;
+  z-index: -1;
+  background-image: linear-gradient(to right, #136a8a, #267871);
+  transition: all 0.5s linear;
+} */
+.btn-order:hover::before {
+  width: 100%;
+}
+/* .btn-order:hover::after {
+  height: 100%;
+} */

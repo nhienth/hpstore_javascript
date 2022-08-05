@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      href="//bizweb.dktcdn.net/100/180/515/themes/683553/assets/favicon.png?1624423469475"
+      type="image/x-icon"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <script
+      src="https://kit.fontawesome.com/497e58feb8.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+    <link rel="stylesheet" href="./content/css/reset.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"
+    />
+    <link rel="stylesheet" href="./content/css/app.css" />
+    <link rel="stylesheet" href="./content/css/header.css" />
+    <link rel="stylesheet" href="./content/css/footer.css" />
+    <link rel="stylesheet" href="./content/css/main.css" />
+    <link rel="stylesheet" href="./content/css/login.css" />
+    <link rel="stylesheet" href="./content/css/product.css" />
+    <link rel="stylesheet" href="./content/css/details.css" />
+    <link rel="stylesheet" href="./content/css/comment.css" />
+    <link rel="stylesheet" href="./content/css/cart.css" />
+    <link rel="stylesheet" href="./content/css/check-out.css" />
+    <title>Cửa hàng bóng chuyển HPstore</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="header-top">
+        <div class="header-top-logo">
+          <a href="index.html"><img src="./content/images/home/logo.png" /></a>
+        </div>
+        <div class="header-top-search">
+          <!-- <div class="header-inputSearch"> -->
+          <div class="search-box">
+            <input
+              type="text"
+              placeholder="Bạn cần tìm gì hôm nay ?"
+              name="keywords"
+            />
+            <button name="search-btn">
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+          <!-- </div> -->
+        </div>
+        <div class="header-top-phone">
+          <!-- <ion-icon name="phone-portrait-outline"></ion-icon> -->
+          <div class="phone-icon">
+            <i class="fas fa-mobile-alt"></i>
+          </div>
+          <div class="phone-number">0866100339</div>
+        </div>
+        <div class="header-top-account">
+          <div class="account-hover">
+            <ul>
+              <li><a href="./site/account/login.html">Đăng nhập</a></li>
+              <li><a href="./site/account/register.html">Đăng ký</a></li>
+              <li>
+                <a href="./site/account/forget_pass.html">Quên mật khẩu</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="account-icon"><i class="fas fa-user"></i></div>
+          <div class="account-content">
+            <h4 class="account-title">Tài khoản</h4>
+            <p class="account-hello">Xin chào</p>
+          </div>
+        </div>
+        <div class="header-top-cart">
+          <div class="cart-icon">
+            <a href="cart.html" style="color: white"
+              ><i class="fas fa-shopping-bag"></i
+            ></a>
+          </div>
+
+          <div class="cart-count">0</div>
+        </div>
+      </div>
+    </header>
+
+    <div class="main-navagation">
+      <nav class="navigation-horizontal width-normal">
+        <ul id="cate-list"></ul>
+      </nav>
+    </div>
+    <!-- ------------------HOME -------------------------------------->
+    <div class="bottom-nav">
+      <div class="bottom-nav--title width-normal">
+        <a href="index.html">Trang chủ</a>
+        <i class="fas fa-chevron-right"></i>
+        <span class="blue"></span>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="product-adv width-normal">
+        <div class="adv-img">
+          <img src="./content/images/home/cate_1.jpg" alt="" />
+        </div>
+        <div class="adv-img">
+          <img src="./content/images/home/cate_2.jpg" alt="" />
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="main-product--list width-normal">
+        <div class="main-product--left">
+          <div class="filter-title">
+            <p class="filter-filer">Bộ lọc</p>
+            <p class="filter-help">Giúp lọc nhanh sản phẩm bạn tìm kiếm</p>
+          </div>
+          <div class="product-left--filter">
+            <div class="filter-name">Tên sản phẩm</div>
+            <div class="filter-form">
+              <form action="" method="post">
+                <input type="text" placeholder="Tìm theo tên" name="kyw" />
+                <button type="submit" name="timkiem">
+                  <i class="fas fa-search font-filter"></i>
+                </button>
+              </form>
+            </div>
+            <div class="filter-name">Giá sản phẩm</div>
+            <form action="" method="post" class="form-price">
+              <select name="filterValue" id="">
+                <option value="0">Tất cả</option>
+                <option value="1">Dưới 300.000đ</option>
+                <option value="2">Dưới 500.000đ</option>
+                <option value="3">Dưới 1.000.000đ</option>
+              </select>
+              <button type="submit" name="btn-filter">
+                <i class="fas fa-search font-filter"></i>
+              </button>
+            </form>
+          </div>
+          <div class="filter-title margin-top-20">
+            <p class="filter-filer">Danh mục</p>
+          </div>
+          <div class="product-left--filter">
+            <div class="vertical-navigation">
+              <nav class="ver-nav">
+                <ul id="cate-columns">
+                  <li><a href="#">Blog bóng chuyền</a></li>
+                  <li><a href="#">Tin tức - sự kiện</a></li>
+                  <li><a href="#">Đánh giá sản phẩm</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="filter-title margin-top-20">
+            <p class="filter-filer">Top sản phẩm yêu thích</p>
+          </div>
+          <div class="topViews-box">
+            <!-- <div class="topViews-pro">
+                    <div class="topViews-pro--img">
+                      <a href="'.$linkDetails.'"><img src="./uploads/" /></a>
+                    </div>
+                    <div class="topViews-pro--name"><a href="'.$linkDetails.'">'.$ten_hanghoa.'</a></div>
+                  </div> -->
+          </div>
+          <div></div>
+          <div class="product-left--img">
+            <img src="./content/images/home/aside_banner.png" />
+          </div>
+        </div>
+        <div class="main-product--right">
+          <div class="product-sort">
+            <div class="producr-sort--right">
+              <form action="" method="post">
+                <label for="sort">Sắp xếp : </label>
+                <select id="sort" name="sapxephh">
+                  <option value="0">Thứ tự</option>
+                  <option value="1">A - Z</option>
+                  <option value="2">Z - A</option>
+                  <option value="3">Giá tăng dần</option>
+                  <option value="4">Giá giảm dần</option>
+                  <option value="5">Hàng mới nhất</option>
+                  <option value="6">Hàng cũ nhất</option>
+                </select>
+                <button class="btn-sort" name="btn-sx"></button>
+              </form>
+            </div>
+          </div>
+          <div class="product-show" id="related">
+            <div class="product-box">
+              <div class="item-option">
+                <a style="color: white" href="">Chi tiết</a>
+              </div>
+              <div class="item-image">
+                <!-- <div class="item-sale">Giảm '.$giam_gia.'%</div> -->
+                <a href=""> <img src="./uploads/" /></a>
+              </div>
+              <div class="item-name"><a href=""></a></div>
+              <!-- 
+              <div class="item-price">
+                <span class="price-off"></span>
+                <span class="price-sale"></span>
+              </div> -->
+
+              <div class="item-price">
+                <span class="price-off"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- --------------END HOME-------------------------------- -->
+    <footer>
+      <div class="footer">
+        <div class="footer-about footer-row">
+          <div class="footer-title">Về chúng tôi</div>
+          <ul>
+            <li><a href="#">Giới thiệu</a></li>
+            <li><a href="#">Liên hệ</a></li>
+          </ul>
+        </div>
+        <div class="footer-category footer-row">
+          <div class="footer-title">Danh mục</div>
+          <ul>
+            <li><a href="#">giày bóng chuyền</a></li>
+            <li><a href="#">đồng phục bóng chuyền</a></li>
+            <li><a href="#">phụ kiện bóng chuyền</a></li>
+            <li><a href="#">lưu niệm bóng chuyền</a></li>
+            <li><a href="#">blog bóng chuyền</a></li>
+            <li><a href="#">tin tức - sự kiện</a></li>
+            <li><a href="#">đánh giá sản phẩm</a></li>
+            <li><a href="#">flash sale 2022</a></li>
+          </ul>
+        </div>
+        <div class="footer-support footer-row">
+          <div class="footer-title">Hỗ trợ khách hàng</div>
+          <ul>
+            <li><a href="#">Hướng dẫn mua hàng</a></li>
+            <li><a href="#">Hướng dẫn chọn size</a></li>
+            <li><a href="#">Bảo hành - đổi trả</a></li>
+            <li><a href="#">Phản hồi - góp ý</a></li>
+          </ul>
+        </div>
+        <div class="footer-advise footer-row">
+          <div class="footer-title">Tư vấn - hỗ trợ</div>
+          <div class="advise-holine">
+            <div class="hotline-content">
+              <p class="hotline-title">Hotline 1</p>
+              <p class="hotline-phone">0866100339</p>
+            </div>
+            <div class="hotline-content">
+              <p class="hotline-title">Hotline 2</p>
+              <p class="hotline-phone">0866100339</p>
+            </div>
+          </div>
+          <div class="transport-connect">
+            <div class="transport">
+              <div class="transport-connect-title">Đối tác vận chuyển</div>
+              <div class="transport-img">
+                <img src="./content/images/footer/payment_1.png" />
+                <img src="./content/images/footer/payment_2.png" />
+                <img src="./content/images/footer/payment_3.png" />
+              </div>
+            </div>
+            <div class="connect">
+              <div class="transport-connect-title">Kết nối với chúng tôi</div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-fb.jpg" />
+                <div class="connect-content">Facebook</div>
+              </div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-twitter.jpg" />
+                <div class="connect-content">Twiiter</div>
+              </div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-google-plus.jpg" />
+                <div class="connect-content">Gooole+</div>
+              </div>
+              <div class="connect-icon">
+                <img src="./content/images/footer/icon-youtube.jpg" />
+                <div class="connect-content">Youtube</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div class="fixed-fb"></div>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
+      <!-- <i class="fas fa-arrow-up"></i> -->
+    </button>
+
+    <script src="./content/js/app.js"></script>
+    <script src="./main.js"></script>
+    <script>
+      checkLogin();
+      function loadListCateColumns() {
+        var cateList = document.querySelector("#cate-columns");
+
+        fetch("http://localhost:3000/categories?_sort=id&_order=desc")
+          .then((response) => response.json())
+          .then((data) => {
+            var htmls = "";
+            data.forEach((cate) => {
+              htmls += `<li><a href="related.html?id=${cate.id}">${cate.name}</a></li>`;
+            });
+
+            cateList.innerHTML = htmls;
+          });
+      }
+      showToTalCart();
+      loadListCateColumns();
+      loadListCate();
+      loadRelatedProduct();
+      searchProduct();
+      loadSearchProduct();
+    </script>
+  </body>
+</html>
